@@ -68,7 +68,7 @@ Copy code
 </head>
 <body>
     <h1>About me</h1>
-    <p>I'm a web developer.</p>
+    <p>Hello I am the website.</p>
 </body>
 </html>
 Step 5: Run the application
