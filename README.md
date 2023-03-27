@@ -54,9 +54,10 @@ html
     <title>Home Page</title>
 </head>
 <body>
-    <h1>Welcome to my website!</h1>
+    <h1>The webSite with Python</h1>
 </body>
 </html>
+
 And here's the code for "about.html":
 
 html
@@ -78,6 +79,7 @@ Now we can run our Flask application. Add the following code at the end of your 
 python
 if __name__ == '__main__':
     app.run(debug=True)
+    
 This code tells Flask to run the application in debug mode.
 
 Save your Python file as "app.py" and run it from your command prompt or terminal:
